@@ -1,3 +1,3 @@
-# Javascript-JSON
-
-HIER
+Im attempting to get past the server calls, in order so the changes i make to the data may take effect...
+Tracing in the swf file as follows...: aim is to quick build rockets...eg less time or 0 gold...trying to edit any of the value gives back a error messege...here i traced the build command...the other...instabuild...speedup cancel or scrap can be traced similary, with the same data//results
+ Our issue atm is the  JSON server calls which are sent to the main server and back.
